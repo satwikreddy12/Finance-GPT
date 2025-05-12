@@ -1,0 +1,10 @@
+phidata
+openai
+anthropic
+yfinance
+googlesearch-python
+groq
+duckduckgo-search
+python-dotenv
+fredapi
+wbdata
