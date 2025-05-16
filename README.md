@@ -1,4 +1,4 @@
-# 💰 Financial GPT Assistant
+# 💰 Financial GPT Assistant(AI Agent)
 
 ## Overview
 
